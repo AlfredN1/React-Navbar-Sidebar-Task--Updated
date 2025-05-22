@@ -1,0 +1,17 @@
+.tag-button {
+  background-color: #8A2BE2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.tag-button:hover {
+  background-color: #9932CC;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
